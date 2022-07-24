@@ -12,3 +12,8 @@ Desktop file (copy) ▶ Phone (paste)
 ------------------------------------
 
 `cd && cd ../../../../..  && cd /sdcard && cp /data/data/com.termux/files/home/manjaro-fs/root/Desktop/`🅵🅸🅻🅴 🅽🅰🅼🅴`   . `
+
+------------------------------------
+Sezan Mahmood 
+(YouTube) https://cutt.ly/sZqzuN1
+------------------------------------
