@@ -1,17 +1,28 @@
-# File Transfer ▶(Manjaro & Phone) 
+# Manjaro install ▶
+https://youtu.be/bKhGyFTto3I
 
 ------------------------------------
-Phone file (copy) ▶ Desktop (paste)
+Blender install ▶
 ------------------------------------
-`cd && cd /data/data/com.termux/files/home/manjaro-fs/root/Desktop && cp /sdcard/` 🅵🅸🅻🅴 🅽🅰🅼🅴`  . `
+▶ `bash start-manjaro.sh` (# ᴛᴏ sᴛᴀʀᴛ ᴍᴀɴᴊᴀʀᴏ)
 
 
+▶ `bash xfce4_de.sh `
+
+
+▶ `vncserver-start `   (# ᴛᴏ sᴛᴀʀᴛ ᴠɴᴄ )
+
+
+▶ `sudo pacman -S blender `
+
+▶ `blender`    (# ᴛᴏ ᴏᴘᴇɴ ʙʟᴇɴᴅᴇʀ)
 
 ------------------------------------
-Desktop file (copy) ▶ Phone (paste)
+Stop ▶
 ------------------------------------
+▶ `vncserver-stop`    (# ᴛᴏ sᴛᴏᴘ ᴠɴᴄ )
 
-`cd && cd ../../../../..  && cd /sdcard && cp /data/data/com.termux/files/home/manjaro-fs/root/Desktop/`🅵🅸🅻🅴 🅽🅰🅼🅴`   . `
+▶ `exit `
 
 ------------------------------------
 Sezan Mahmood 
