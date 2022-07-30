@@ -1,5 +1,4 @@
-# Manjaro install ▶
-https://youtu.be/bKhGyFTto3I
+▶️Manjaro install https://youtu.be/bKhGyFTto3I
 
 ------------------------------------
 Blender install ▶
